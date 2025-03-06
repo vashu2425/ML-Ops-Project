@@ -161,10 +161,3 @@
 
 
 
-MongoDB Credentials
-username: aaman2004310100015
-password: tyyRlMzPlYgQ5fJn
-
-
-MongoDB connection string
-mongodb+srv://aaman2004310100015:tyyRlMzPlYgQ5fJn@cluster0.rhyrd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
